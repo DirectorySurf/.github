@@ -9,6 +9,7 @@
 
 - ✨ **[directory.surf](https://github.com/DirectorySurf/directory.surf)** — Source code for Directory Surf website!  
 - ✨ **[Awesome Launch Platforms](https://github.com/DirectorySurf/awesome-launch-platforms)**
+- ✨ **[Awesome AI Agents Directories](https://github.com/DirectorySurf/awesome-ai-agents-directories)**
 - ✨ **[awesome Founder Communities](https://github.com/DirectorySurf/awesome-founder-communities)**
 - ✨ **[Producthunt Alternatives](https://github.com/DirectorySurf/awesome-producthunt-alternatives)**
 - ✨ **[G2 Alternatives](https://github.com/DirectorySurf/awesome-g2-alternatives)** 
